@@ -1,1 +1,1 @@
-# Angular
+Estudos sobre Angular utilizando Typescript.
